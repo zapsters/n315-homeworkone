@@ -14,4 +14,4 @@ This assignment will help you understand styling with the Sass and how to implem
 
 ### Link
 
-web4 link: https://in-info-web4.informatics.iupui.edu/~erballin/n315/homeworkOne/
+web4 link: https://in-info-web4.luddy.indianapolis.iu.edu/~erballin/n315/homeworkOne/
